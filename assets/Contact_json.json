@@ -1,0 +1,41 @@
+{
+  "data": {
+    "contact": [
+      {
+        "name": "Tamilarasan",
+        "email": "tamilarasan1mst@gamil.com",
+        "age": 20
+      },
+      {
+        "name": "Tony Stark",
+        "email": "tonystark@gmail.com",
+        "age": {
+          "#text": "55",
+          "age": "",
+          "contact": [
+            {
+              "name": "Black Widow",
+              "email": "blackwidow@gmail.com",
+              "age": 34
+            },
+            {
+              "name": "Steve Rogers",
+              "email": "steverogers@gmail.com",
+              "age": 38
+            },
+            {
+              "name": "Thor",
+              "email": "thor@gmail.com",
+              "age": 36
+            },
+            {
+              "name": "Clint",
+              "email": "clint@gmail.com",
+              "age": 48
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
